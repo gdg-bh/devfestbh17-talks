@@ -11,3 +11,6 @@ https://github.com/cassiobotaro/heyholetsgo
 
 ## O lado oculto dos componentes - acessibilidade como sua aliada (Bruno Pulis)
 https://speakerdeck.com/brunopulis/o-lado-oculto-dos-componentes-acessibilidade-como-sua-aliada
+
+## Kotlin - Padrões e Boas Práticas (Rafael Toledo)
+https://speakerdeck.com/rafaeltoledo/kotlin-padroes-e-boas-praticas
