@@ -17,3 +17,6 @@ https://speakerdeck.com/rafaeltoledo/kotlin-padroes-e-boas-praticas
 
 ## Polymer Project: State of Union (Afonso Pacifer)
 https://speakerdeck.com/afonsopacifer/polymer-project-state-of-union
+
+## Construindo API's robustas e escaláveis com Graphql e Node.js (Ana Luiza Bastos)
+https://speakerdeck.com/anabastos/construindo-apis-robustas-e-escalaveis-com-graphql-e-node-dot-js
