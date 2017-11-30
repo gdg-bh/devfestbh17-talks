@@ -14,3 +14,6 @@ https://speakerdeck.com/brunopulis/o-lado-oculto-dos-componentes-acessibilidade-
 
 ## Kotlin - Padrões e Boas Práticas (Rafael Toledo)
 https://speakerdeck.com/rafaeltoledo/kotlin-padroes-e-boas-praticas
+
+## Polymer Project: State of Union (Afonso Pacifer)
+https://speakerdeck.com/afonsopacifer/polymer-project-state-of-union
