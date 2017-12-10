@@ -20,3 +20,7 @@ https://speakerdeck.com/afonsopacifer/polymer-project-state-of-union
 
 ## Construindo API's robustas e escaláveis com Graphql e Node.js (Ana Luiza Bastos)
 https://speakerdeck.com/anabastos/construindo-apis-robustas-e-escalaveis-com-graphql-e-node-dot-js
+
+## Integrando Marketing e Desenvolvimento: SEO para Leigos (Juliana Helena)
+https://github.com/JulianaHelena5/Palestra---Devfest2017---SEO
+   
